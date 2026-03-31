@@ -75,15 +75,15 @@ GitHub: https://github.com/tk-data-art
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="./screenshots/home.png" width="80%" />
+  <img src="./screenshots/Home.png" width="80%" />
 </p>
 
 <p align="center">
-  <img src="./screenshots/train.png" width="80%" />
+  <img src="./screenshots/Train.png" width="80%" />
 </p>
 
 <p align="center">
-  <img src="./screenshots/evaluate.png" width="80%" />
+  <img src="./screenshots/Evaluate.png" width="80%" />
 </p>
 
 ![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black)
