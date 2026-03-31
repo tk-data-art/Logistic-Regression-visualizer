@@ -2,10 +2,10 @@ Logistic Regression Visualizer
 
 An interactive, web-based learning tool to understand Logistic Regression, its optimization process, and evaluation metrics — all in real-time.
 
-🌐 Live App:
-👉 https://logistic-regression-visualizer.vercel.app/
+Live App:
+https://logistic-regression-visualizer.vercel.app/
 
-📌 Overview
+Overview
 
 This project transforms logistic regression from a theoretical concept into an interactive visual experience.
 
@@ -33,7 +33,7 @@ Precision, Recall, F1 Score
 ROC Curve & AUC
 Threshold tuning
 
-nstallation & Setup
+Installation & Setup
 
 To run locally:
 
@@ -46,7 +46,7 @@ Then open:
 
 http://localhost:3000
 
-earning Outcomes
+Learning Outcomes
 
 Through this project, I:
 
@@ -57,6 +57,7 @@ React component architecture
 State management
 Data visualization
 Debugging real-world issues
+
 Deployed a production-ready app using Vercel
 🚀 Future Improvements
 📂 Upload real datasets (CSV support)
