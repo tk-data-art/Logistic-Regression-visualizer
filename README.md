@@ -72,3 +72,17 @@ Built as part of my journey to deeply understand machine learning concepts throu
 📬 Connect With Me
 GitHub: https://github.com/tk-data-art
 
+## 🖼️ Screenshots
+
+<p align="center">
+  <img src="./screenshots/home.png" width="80%" />
+</p>
+
+<p align="center">
+  <img src="./screenshots/train.png" width="80%" />
+</p>
+
+<p align="center">
+  <img src="./screenshots/evaluate.png" width="80%" />
+</p>
+
