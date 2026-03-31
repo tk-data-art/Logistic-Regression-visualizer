@@ -1,36 +1,73 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Logistic Regression Visualizer
 
-## Getting Started
+An interactive, web-based learning tool to understand Logistic Regression, its optimization process, and evaluation metrics — all in real-time.
 
-First, run the development server:
+🌐 Live App:
+👉 https://logistic-regression-visualizer.vercel.app/
 
-```bash
+📌 Overview
+
+This project transforms logistic regression from a theoretical concept into an interactive visual experience.
+
+It allows users to:
+
+Explore how the sigmoid function works
+Visualize decision boundaries
+Understand gradient descent optimization
+Analyze evaluation metrics like precision, recall, F1-score, and ROC curve
+✨ Features
+🧠 Learning Mode
+Beginner & Advanced modes
+Intuitive explanations + mathematical insights
+📊 Visualization
+Sigmoid curve explorer
+Decision boundary with heatmap
+Real-time probability visualization
+⚙️ Training Simulation
+Gradient descent step-by-step
+Adjustable learning rate
+Loss curve tracking
+📈 Evaluation Metrics
+Confusion Matrix
+Precision, Recall, F1 Score
+ROC Curve & AUC
+Threshold tuning
+
+nstallation & Setup
+
+To run locally:
+
+git clone https://github.com/tk-data-art/Logistic-Regression-visualizer.git
+cd Logistic-Regression-visualizer
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3001) with your browser to see the result.
+Then open:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+http://localhost:3000
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+earning Outcomes
 
-## Learn More
+Through this project, I:
 
-To learn more about Next.js, take a look at the following resources:
+Built an end-to-end interactive ML application
+Understood logistic regression beyond theory
+Gained hands-on experience with:
+React component architecture
+State management
+Data visualization
+Debugging real-world issues
+Deployed a production-ready app using Vercel
+🚀 Future Improvements
+📂 Upload real datasets (CSV support)
+🌙 Dark mode
+📱 Mobile responsiveness
+🎥 Animated gradient descent
+🔐 User interaction tracking
+🙌 Acknowledgements
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Built as part of my journey to deeply understand machine learning concepts through hands-on visualization and real-world implementation.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+📬 Connect With Me
+GitHub: https://github.com/tk-data-art
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
