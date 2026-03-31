@@ -86,3 +86,5 @@ GitHub: https://github.com/tk-data-art
   <img src="./screenshots/evaluate.png" width="80%" />
 </p>
 
+![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black)
+![React](https://img.shields.io/badge/Built%20with-React-blue)
